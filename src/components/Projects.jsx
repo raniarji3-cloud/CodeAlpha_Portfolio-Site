@@ -2,6 +2,9 @@ import "./Projects.css";
 import project1 from "../assets/projects/project1.jpeg";
 import project2 from "../assets/projects/project2.jpeg";
 import project3 from "../assets/projects/project3.jpeg";
+import project4 from "../assets/projects/project4.jpeg";
+import project5 from "../assets/projects/project5.jpeg";
+import project6 from "../assets/projects/project6.jpeg";
 
 function Projects() {
   return (
